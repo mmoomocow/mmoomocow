@@ -15,7 +15,7 @@
 
 ![mmoomocow's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoomocow&count_private=true&show_icons=true&theme=radical)
 
-![mmoomocow's github trophy](https://github-profile-trophy.vercel.app/?username=mmoomocow&row=1)
+![mmoomocow's github trophy](https://github-profile-trophy.vercel.app/?username=mmoomocow&row=1&theme=radical&no-bg=true)
 
 ![mmoomocow's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mmoomocow&theme=blue-green)
 
