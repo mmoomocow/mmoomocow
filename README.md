@@ -46,8 +46,3 @@ Automated testing: ![GitHub Actions](https://img.shields.io/badge/githubactions-
 OS: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 Software: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-
----
-## Website
-![Website monip.org](https://img.shields.io/website-up-down-green-red/https/mmoomocow.tech.svg)
-
