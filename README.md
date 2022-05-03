@@ -19,7 +19,6 @@
 
 ![mmoomocow's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mmoomocow&theme=blue-green)
 
-![mmoomocow's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mmoomocow)
 ---
 
 ## About me
@@ -47,7 +46,4 @@ Automated testing: ![GitHub Actions](https://img.shields.io/badge/githubactions-
 
 OS: ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-Software: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-
 ---
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/mmoomocow)
