@@ -1,15 +1,12 @@
 # I am mmoomocow
 
-<!--
-[![wakatime](https://wakatime.com/badge/user/9c8e9ebc-4c07-49e2-bd63-e148dfed7e7a.svg)](https://wakatime.com/@9c8e9ebc-4c07-49e2-bd63-e148dfed7e7a)
-
 [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
--->
+
 --- 
 ## Stats
 
