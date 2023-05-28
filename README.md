@@ -16,6 +16,10 @@ Fruity Pie is a game I developed with 3 others for the Dunedin High School game 
 The true game jam release of the game can be found under [Releases -> v1.0.0](https://github.com/mmoomocow/Grandmas-fruit/releases/tag/v1.0.0). 
 ![image](https://user-images.githubusercontent.com/44288823/180877874-9d14fd30-0ca0-4882-a934-f3970b008461.png)
 
+### [Expedition](https://github.com/mmoomocow/expedition)
+Expedition was developed as part of the cross pacific game jam 2023 between dunedin and tokyo. I worked in a pair to develop this game. The theme was `Explore! Escape?` and we wanted to focus on having a place to explore, and the `?` on the escape. You play as a person who has just landed on a planet that is too toxic to live on and have to explore. You find a mysterious man who isn't happy and gives you 90 seconds to escape, but do you need to?
+
+The game jam release of the game is found under [Releases -> v1.0.0](https://github.com/mmoomocow/expedition/releases/tag/v1.0.0).
 
 ---
 ## Stats
